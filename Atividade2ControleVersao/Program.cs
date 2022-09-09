@@ -12,6 +12,7 @@ namespace Atividade2ControleVersao
             // V3.0
             // V4.0
             // V2.1
+            // V2.2
         }
     }
 }
